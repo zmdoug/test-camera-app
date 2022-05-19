@@ -1,7 +1,6 @@
 import React, { useState, useRef } from "react";
 import {Camera} from "react-camera-pro";
 import './App.css';
-import {Camera} from "react-camera-pro";
 
 const App = () => {
 	const camera = useRef(null);
